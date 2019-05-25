@@ -4,7 +4,7 @@
 
 ![alt text][1.1] <strong><em>`The contents of this repo are a proof of concept and are for educational use only`</em></strong>![alt text][1.1]<br/>
 
-# WUProtos.Core [![Build status](https://ci.appveyor.com/api/projects/status/oud2kw685uf24xjv?svg=true)](https://ci.appveyor.com/project/RocketBot/wuprotos-core) [![Discord](https://img.shields.io/badge/Discord-Online-blue.svg)](https://discord.gg/mFH2D34)
+# WUProtos.Core [![Build status](https://ci.appveyor.com/api/projects/status/oud2kw685uf24xjv?svg=true)](https://ci.appveyor.com/project/RocketBot/wuprotos-core) [![Discord](https://img.shields.io/badge/Discord-Online-blue.svg)](https://discord.gg/mFH2D34) [![NuGet](https://img.shields.io/nuget/vpre/WUProtos.Core.svg?maxAge=60)](https://www.nuget.org/packages/WUProtos.Core)
 
 Precompiled protobuf files for communication with Harry Potter Wizards Unite.
 
