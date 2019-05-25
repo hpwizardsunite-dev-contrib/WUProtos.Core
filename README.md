@@ -18,3 +18,6 @@ Installation is done via NuGet:
     PM> Install-Package WUProtos.Core
     
 https://www.nuget.org/packages/WUProtos.Core/
+
+# Credits
+ - Based into [POGOProtos.NetStandard1](https://github.com/AeonLucid/POGOProtos.NetStandard1)
