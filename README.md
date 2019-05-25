@@ -6,7 +6,7 @@
 
 # WUProtos.Core [![Build status](https://ci.appveyor.com/api/projects/status/oud2kw685uf24xjv?svg=true)](https://ci.appveyor.com/project/RocketBot/wuprotos-core) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SNATC29B4ZJD4)
 
-Precompiled protobuf files for communication with PokémonGo.
+Precompiled protobuf files for communication with Harry Potter Wizards Unite.
 
 ## Supported Platforms
 
