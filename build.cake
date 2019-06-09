@@ -1,6 +1,6 @@
 #addin nuget:?package=Cake.Git
 
-var gitRepository = "https://github.com/Furtif/WUProtos.git";
+var gitRepository = "https://github.com/hpwizardsunite-dev-contrib/WUProtos.git";
 var branch = EnvironmentVariable("WUPROTOS_TAG") ?? "master";
 
 var dirProtos = "./WUProtos";
